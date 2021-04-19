@@ -1,0 +1,6 @@
+questão 4- 
+resposta: 22.
+questao 7- 
+resposta: 
+ primeiro 11
+ ultimo 02
